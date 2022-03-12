@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0abc2692-82e5-4ba0-95b8-8a5a37fd6760" name="Default Changelist" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/init.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/Database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/site/header.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/system/App.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/system/Controller.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/windwalker/edge" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/macroable" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/collections" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/bus" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/events" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/pipeline" />
+    </include_path>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="26FosZApncIuND5y7FlXGZBpXk7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Application/views/index" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
+      <option name="pathToComposerJson" value="$PROJECT_DIR$/composer.json" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0abc2692-82e5-4ba0-95b8-8a5a37fd6760" name="Default Changelist" comment="" />
+      <created>1647028902145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647028902145</updated>
+      <workItem from="1647028903282" duration="1631000" />
+      <workItem from="1647030597962" duration="1747000" />
+      <workItem from="1647032425949" duration="929000" />
+      <workItem from="1647033360500" duration="641000" />
+      <workItem from="1647036426607" duration="7937000" />
+    </task>
+    <task id="LOCAL-00001" summary="MVC Architecture created.">
+      <created>1647036532501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647036532501</updated>
+    </task>
+    <task id="LOCAL-00002" summary="MVC Architecture edited.">
+      <created>1647079101775</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647079101775</updated>
+    </task>
+    <task id="LOCAL-00003" summary="helper.php added">
+      <created>1647079704355</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647079704355</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First commit">
+      <created>1647080668738</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647080668738</updated>
+    </task>
+    <task id="LOCAL-00005" summary="First commit">
+      <created>1647080679547</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647080679547</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/mvc" />
+    </ignored-roots>
+    <MESSAGE value="MVC Architecture created." />
+    <MESSAGE value="MVC Architecture edited." />
+    <MESSAGE value="helper.php added" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1647078347536">
+      <screen x="0" y="25" width="1680" height="961" />
+    </state>
+    <state x="441" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.961/-248.-1055.1920.1055@0.25.1680.961" timestamp="1647078347536" />
+    <state x="590" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647080803610">
+      <screen x="0" y="25" width="1680" height="961" />
+    </state>
+    <state x="590" y="311" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1680.961/-248.-1055.1920.1055@0.25.1680.961" timestamp="1647080803610" />
+    <state x="424" y="25" width="1073" height="917" key="CommitChangelistDialog2" timestamp="1647080814320">
+      <screen x="0" y="25" width="1680" height="961" />
+    </state>
+    <state x="424" y="25" width="1073" height="917" key="CommitChangelistDialog2/0.25.1680.961/-248.-1055.1920.1055@0.25.1680.961" timestamp="1647080814320" />
+    <state x="491" y="406" width="657" height="198" key="Github.ShareDialog" timestamp="1647080630344">
+      <screen x="0" y="25" width="1680" height="961" />
+    </state>
+    <state x="491" y="406" width="657" height="198" key="Github.ShareDialog/0.25.1680.961/-248.-1055.1920.1055@0.25.1680.961" timestamp="1647080630344" />
+    <state x="605" y="235" key="NewPhpClassDialog" timestamp="1647083175753">
+      <screen x="0" y="25" width="1680" height="961" />
+    </state>
+    <state x="605" y="235" key="NewPhpClassDialog/0.25.1680.961/-248.-1055.1920.1055@0.25.1680.961" timestamp="1647083175753" />
+    <state x="660" y="433" key="NewPhpFileDialog" timestamp="1647082853244">
+      <screen x="0" y="25" width="1680" height="961" />
+    </state>
+    <state x="660" y="433" key="NewPhpFileDialog/0.25.1680.961/-248.-1055.1920.1055@0.25.1680.961" timestamp="1647082853244" />
+    <state x="350" y="141" key="SettingsEditor" timestamp="1647080771590">
+      <screen x="0" y="25" width="1680" height="961" />
+    </state>
+    <state x="350" y="141" key="SettingsEditor/0.25.1680.961/-248.-1055.1920.1055@0.25.1680.961" timestamp="1647080771590" />
+    <state x="440" y="242" key="Vcs.Push.Dialog.v2" timestamp="1647080709028">
+      <screen x="0" y="25" width="1680" height="961" />
+    </state>
+    <state x="440" y="242" key="Vcs.Push.Dialog.v2/0.25.1680.961/-248.-1055.1920.1055@0.25.1680.961" timestamp="1647080709028" />
+    <state x="632" y="423" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1647079459011">
+      <screen x="0" y="25" width="1680" height="961" />
+    </state>
+    <state x="632" y="423" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1680.961/-248.-1055.1920.1055@0.25.1680.961" timestamp="1647079459011" />
+    <state x="679" y="300" key="svn.repositoryBrowser" timestamp="1647080541313">
+      <screen x="0" y="25" width="1680" height="961" />
+    </state>
+    <state x="679" y="300" key="svn.repositoryBrowser/0.25.1680.961/-248.-1055.1920.1055@0.25.1680.961" timestamp="1647080541313" />
+    <state x="591" y="283" key="svn4idea.import.options" timestamp="1647080536108">
+      <screen x="0" y="25" width="1680" height="961" />
+    </state>
+    <state x="591" y="283" key="svn4idea.import.options/0.25.1680.961/-248.-1055.1920.1055@0.25.1680.961" timestamp="1647080536108" />
+  </component>
+  <component name="hg4idea.settings">
+    <option name="OVERRIDE_APPLICATION_PATH_TO_EXECUTABLE" value="true" />
+    <option name="CHECK_INCOMING_OUTGOING" value="true" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+</project>
